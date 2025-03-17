@@ -1,8 +1,8 @@
 # Lumen Tales - Interactive Narrative Platform on Blockchain
 
 <div align="center">
-  <!-- Using relative path to the logo image -->
-  <img src="public/images/logo.png" alt="Lumen Tales Logo" width="250">
+  <!-- Using GitHub raw content URL for the logo image -->
+  <img src="https://github.com/LumenTale/LumenTales/raw/main/public/images/logo.png" alt="Lumen Tales Logo" width="250">
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
   [![Website](https://img.shields.io/badge/Website-lumentales.com-blue)](https://www.lumentales.com)
@@ -30,7 +30,9 @@ Lumen Tales employs a modern, efficient architecture focused on performance and 
 ### High-Level Architecture
 
 <div align="center">
-  <img src="public/images/architecture.png" alt="Lumen Tales Architecture" width="800">
+  <!-- Using a placeholder image for now, will be replaced with actual architecture diagram -->
+  <img src="https://github.com/LumenTale/LumenTales/raw/main/public/images/logo.png" alt="Lumen Tales Architecture" width="600">
+  <p><i>Note: Architecture diagram is currently using the logo as a placeholder. A detailed architecture diagram will be added soon.</i></p>
 </div>
 
 ## 💻 Technical Stack
