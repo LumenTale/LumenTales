@@ -22,7 +22,7 @@ const Footer: React.FC = () => {
             
             {/* Social links */}
             <div className="mt-6 flex space-x-6">
-              <a href="#" className="text-gray-400 hover:text-white">
+              <a href="https://x.com/LumentTales" className="text-gray-400 hover:text-white">
                 <span className="sr-only">Twitter</span>
                 <FiTwitter className="h-6 w-6" />
               </a>

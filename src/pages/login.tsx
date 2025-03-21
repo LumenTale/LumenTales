@@ -208,6 +208,7 @@ const LoginPage: React.FC = () => {
               <button
                 type="button"
                 className="w-full inline-flex justify-center py-2 px-4 border border-gray-300 rounded-md shadow-sm bg-white text-sm font-medium text-gray-500 hover:bg-gray-50"
+                onClick={() => window.open('https://x.com/LumentTales', '_blank')}
               >
                 <span className="sr-only">Sign in with Twitter</span>
                 <svg className="w-5 h-5" aria-hidden="true" fill="currentColor" viewBox="0 0 20 20">
